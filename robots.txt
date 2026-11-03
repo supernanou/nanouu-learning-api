@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://supernanou.github.io/nanouu-learning-api/sitemap.xml
